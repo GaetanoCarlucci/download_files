@@ -1,5 +1,5 @@
 ####################################################################################################
-# This function copies a folder (and optionally, its subfolders)
+# This PowerShell function copies a folder (and optionally, its subfolders)
 #
 # When copying subfolders it calls itself recursively
 #
