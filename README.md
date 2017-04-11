@@ -9,7 +9,7 @@ This function copies a folder hosted remotely through http.
 **OUTPUT PARAMETERS** <br />
 - Return: None
 
-### Power shell file downloader 
+### Usage
 - Download the file.
 - Open the PowerShell
 - Run:
