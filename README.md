@@ -1,6 +1,6 @@
 ## Power shell file downloader 
 
-This function copies a folder hosted remotely through http.
+This PowerShell  function copies a folder hosted remotely through http.
 
 **INPUT PARAMETERS** <br />
 - $source:  The url of folder to copy, with trailing /, *e.g. http://website/folder/* <br />
