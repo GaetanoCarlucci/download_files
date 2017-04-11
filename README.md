@@ -1,11 +1,9 @@
-This function copies a folder (and optionally, its subfolders)
+## Power shell file downloader 
 
- When copying subfolders it calls itself recursively
+This function copies a folder hosted remotely through http.
 
-Parameters:
-
-  $source      - The url of folder to copy, with trailing /, e.g. http://website/folder/structure/
-  
-  $destination - The folder to copy $source to, with trailing \ e.g. D:\CopyOfStructure\
-  
-  Return       - None
+**INPUT PARAMETERS** <br />
+- $source:  The url of folder to copy, with trailing /, e.g. *http://website/folder/*<br />
+- $destination: The folder to copy $source to, with trailing \ e.g. D:\CopyOfStructure\<br />
+**OUTPUT PARAMETERS** <br />
+- Return       - None
