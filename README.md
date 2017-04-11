@@ -10,8 +10,8 @@ This function copies a folder hosted remotely through http.
 - Return: None
 
 ### Usage
-- Download the file.
-- Open the PowerShell
+- Download the file [download.ps1](https://github.com/GaetanoCarlucci/download_files/blob/master/download.ps1) in a directory.
+- Open the PowerShell in the same directory.
 - Run:
 ```
 . .\download.ps1
