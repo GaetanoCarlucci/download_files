@@ -8,3 +8,12 @@ This function copies a folder hosted remotely through http.
 
 **OUTPUT PARAMETERS** <br />
 - Return: None
+
+### Power shell file downloader 
+- Download the file.
+- Open the PowerShell
+- Run:
+```
+. .\download.ps1
+Copy-Folder http://website/folder/ D:\CopyOfStructure\
+```
