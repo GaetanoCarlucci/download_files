@@ -28,4 +28,4 @@ Function Copy-Folder([string]$source, [string]$destination) {
     }
 }
 
-Copy-Folder "http://10.48.37.151/01/Training/VMware/STI-ICM-Condensed-Training/" $home\STI-ICM-Condensed-Training\
+#Copy-Folder "http://10.48.37.151/01/Training/VMware/STI-ICM-Condensed-Training/" $home\STI-ICM-Condensed-Training\
